@@ -1,3 +1,9 @@
+# Next JS/TainwindCSS UI/UX Travel App
+ Fun project I found over at [@Javascript Mastery's YouTube Channel](https://www.youtube.com/@javascriptmastery) Check it out there if you'd like to do the same!
+
+  Check out the version I deployed on Vercel [here](https://travel-ui-ux-app.vercel.app/)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
